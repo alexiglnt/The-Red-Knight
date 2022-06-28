@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - triggerDebut
+  - Door1
+  - Door2
+  - Door3
+  - DoorNextScene
+  - bumper
+  - damageObstacle
+  - DoorLastScene
+  - degat
+  - coins
+  - armor
+  - strength
+  - projectile
+  - Teleporter
+  - heal
+  - object
+  - grotte
+  - transition1
+  - transition2
+  - fin
+  - difficulty
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

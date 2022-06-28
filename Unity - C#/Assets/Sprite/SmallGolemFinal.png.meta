@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: c378847b48c8ee343b48e3c14590cb0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4731962536672635829
+    second: SmallGolemFinal_0
+  - first:
+      213: 424446170287785849
+    second: SmallGolemFinal_1
+  - first:
+      213: -364355934653181242
+    second: SmallGolemFinal_2
+  - first:
+      213: -7976210493072490490
+    second: SmallGolemFinal_3
+  - first:
+      213: -4931342791128937052
+    second: SmallGolemFinal_5
+  - first:
+      213: -5176517132133690589
+    second: SmallGolemFinal_6
+  - first:
+      213: -7065730617523711187
+    second: SmallGolemFinal_7
+  - first:
+      213: -5496618499976505498
+    second: SmallGolemFinal_8
+  - first:
+      213: 7681423867377161838
+    second: SmallGolemFinal_9
+  - first:
+      213: 1936218414806102040
+    second: SmallGolemFinal_10
+  - first:
+      213: 1675241029710591618
+    second: SmallGolemFinal_11
+  - first:
+      213: -3447766959025560473
+    second: SmallGolemFinal_12
+  - first:
+      213: -4758498308025007475
+    second: SmallGolemFinal_13
+  - first:
+      213: 4392380457301630888
+    second: SmallGolemFinal_14
+  - first:
+      213: 1593335870611585864
+    second: SmallGolemFinal_15
+  - first:
+      213: 4215243319102986979
+    second: SmallGolemFinal_16
+  - first:
+      213: -8669238412582750015
+    second: SmallGolemFinal_17
+  - first:
+      213: -3423605232471000946
+    second: SmallGolemFinal_18
+  - first:
+      213: 7443278030332126624
+    second: SmallGolemFinal_19
+  - first:
+      213: -8338745003570812270
+    second: SmallGolemFinal_20
+  - first:
+      213: 8934296647092539810
+    second: SmallGolemFinal_21
+  - first:
+      213: 7723771387861863075
+    second: SmallGolemFinal_22
+  - first:
+      213: -8003518850303327422
+    second: SmallGolemFinal_23
+  - first:
+      213: -3084062318398891140
+    second: SmallGolemFinal_24
+  - first:
+      213: -2523516788237680412
+    second: SmallGolemFinal_25
+  - first:
+      213: 1391043146301263908
+    second: SmallGolemFinal_26
+  - first:
+      213: 3008503105350667416
+    second: SmallGolemFinal_27
+  - first:
+      213: -2492785970047297396
+    second: SmallGolemFinal_28
+  - first:
+      213: 8084115956817104227
+    second: SmallGolemFinal_29
+  - first:
+      213: 5135790236910464615
+    second: SmallGolemFinal_30
+  - first:
+      213: 6094977983152541299
+    second: SmallGolemFinal_31
+  - first:
+      213: 2266935263651516686
+    second: SmallGolemFinal_32
+  - first:
+      213: -8540922981920521163
+    second: SmallGolemFinal_33
+  - first:
+      213: -4865772552998128560
+    second: SmallGolemFinal_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallGolemFinal_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 472
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44db27d421b45eb0800000000000000
+      internalID: -4731962536672635829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 472
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97747460b8fe3e500800000000000000
+      internalID: 424446170287785849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 472
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c21137353c81faf0800000000000000
+      internalID: -364355934653181242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 472
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600cbaaf0dece4190800000000000000
+      internalID: -7976210493072490490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 362
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad831ddbd9509bb0800000000000000
+      internalID: -4931342791128937052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 362
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323927d38115928b0800000000000000
+      internalID: -5176517132133690589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 362
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d5ef607b71fd90800000000000000
+      internalID: -7065730617523711187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 362
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6675f0bb89618b3b0800000000000000
+      internalID: -5496618499976505498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 362
+        width: 89
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6619383f46e99a60800000000000000
+      internalID: 7681423867377161838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_10
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 362
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107616c364deda10800000000000000
+      internalID: 1936218414806102040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 362
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2863f0937d6af3710800000000000000
+      internalID: 1675241029710591618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 303
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764e3f2c7321720d0800000000000000
+      internalID: -3447766959025560473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 304
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d824fdd100b66fdb0800000000000000
+      internalID: -4758498308025007475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 302
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afd4db01ced4fc30800000000000000
+      internalID: 4392380457301630888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 305
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf0bf488aac1610800000000000000
+      internalID: 1593335870611585864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 306
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ead8f4277d8f7a30800000000000000
+      internalID: 4215243319102986979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_17
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 301
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c875d8689da0b780800000000000000
+      internalID: -8669238412582750015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_18
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 304
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b56b1e29ec70d0800000000000000
+      internalID: -3423605232471000946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 204
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56a62bee5db4760800000000000000
+      internalID: 7443278030332126624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 204
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a299d8993d64c80800000000000000
+      internalID: -8338745003570812270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_21
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 204
+        width: 90
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a11aefe67ffcfb70800000000000000
+      internalID: 8934296647092539810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 204
+        width: 93
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa05dba729503b60800000000000000
+      internalID: 7723771387861863075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 204
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430786920acde090800000000000000
+      internalID: -8003518850303327422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 92
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b9aa659a53335d0800000000000000
+      internalID: -3084062318398891140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_25
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 93
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0cb5ce9daaafcd0800000000000000
+      internalID: -2523516788237680412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_26
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 93
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420578a1f5afd4310800000000000000
+      internalID: 1391043146301263908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 92
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c061472a950c920800000000000000
+      internalID: 3008503105350667416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 92
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88d04a1e58d76dd0800000000000000
+      internalID: -2492785970047297396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 92
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d862991ac803070800000000000000
+      internalID: 8084115956817104227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_30
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 92
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ea7f7820ef54740800000000000000
+      internalID: 5135790236910464615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_31
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 95
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e42afde26b59450800000000000000
+      internalID: 6094977983152541299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_32
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 92
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0151ce8c95c57f10800000000000000
+      internalID: 2266935263651516686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_33
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 93
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53448a8bccb887980800000000000000
+      internalID: -8540922981920521163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallGolemFinal_34
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 92
+        width: 76
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05473bc94ad497cb0800000000000000
+      internalID: -4865772552998128560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
