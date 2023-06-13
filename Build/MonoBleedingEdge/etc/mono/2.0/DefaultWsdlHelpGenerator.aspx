@@ -58,7 +58,7 @@ string CurrentOperationProtocols;
 int CodeTextColumns = 95;
 BasicProfileViolationCollection ProfileViolations;
 
-#testing GITHUB LANGUAGE C 
+#biblio SDL pour les jeux 2D
 
 
 void Page_Load(object sender, EventArgs e)
